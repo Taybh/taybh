@@ -10,8 +10,8 @@ I bring hands-on experiece in cloud platforms, including Amazon Web Services (AW
 
 I have experiece in programming languages and tools such as C++, Python, MATLAB, Qt and QML, enabling me to design and implement high-performance solutions across diverse domains.
 
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" />
+I create tech content on different platforms, YouTube [![YouTube](https://img.shields.io/badge/YouTube-000?logo=youtube&logoColor=red&style=for-the-badge)](https://youtube.com/@tech_d3coded?feature=shared), Instagram [![Instagram](https://img.shields.io/badge/Instagram-000?logo=instagram&logoColor=E4405F&style=for-the-badge)](https://www.instagram.com/tech.decoded.de?igsh=ZWp0NXYzY3Fld3o3&utm_source=qr) and Medium [![Medium](https://img.shields.io/badge/Medium-000?logo=medium&logoColor=white&style=for-the-badge)](https://medium.com/@innovate_tiba).
+I am a speaker and content creator at Innovate Hamburg as well. 
 
 ## Skills
 
