@@ -25,8 +25,6 @@ I have experiece in programming languages and tools such as C++, Python, MATLAB,
 
 ## Tools and Technologies
 
-## Tools and Technologies
-
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
