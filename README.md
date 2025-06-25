@@ -1,9 +1,9 @@
 ## Hi there 👋, you can call me Taybh! 
 
-[![YouTube Channel](https://img.shields.io/badge/YouTube-Subscribe-red)](https://youtube.com/@tech_d3coded?feature=shared)
-[![Instagram Follow](https://img.shields.io/badge/Instagram-Follow-blue?logo=instagram&style=social)](https://www.instagram.com/tech.decoded.de?igsh=ZWp0NXYzY3Fld3o3&utm_source=qr)
+[![YouTube Channel]([https://img.shields.io/badge/YouTube-Subscribe-red](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&style=social))](https://youtube.com/@tech_d3coded?feature=shared)
+[![Instagram Follow](https://img.shields.io/badge/Instagram-Follow-%23E4405F?logo=instagram&style=social)](https://instagram.com/yourusername)](https://www.instagram.com/tech.decoded.de?igsh=ZWp0NXYzY3Fld3o3&utm_source=qr)
 [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=social)](https://www.linkedin.com/in/tayebeh-bahador-23356a185/)
-[![Medium Follow](https://img.shields.io/badge/Medium-Follow-black?logo=medium&style=social)](https://medium.com/@innovate_tiba)
+[![Medium Follow]([https://img.shields.io/badge/Medium-Follow-black?logo=medium&style=social](https://img.shields.io/badge/Medium-Follow-black?logo=medium&style=social))](https://medium.com/@innovate_tiba)
 
 I am a software engineer with a specialization in deep learning and data science, experienced in building neural networks for both medical (MRI imaging) and non-medical applications and developing advanced image processing solutions for industrial camera systems.
 
