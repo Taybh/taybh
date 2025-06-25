@@ -1,9 +1,8 @@
 ## Hi there 👋, you can call me Taybh! 
-
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&style=social)](https://youtube.com/@tech_d3coded?feature=shared)&nbsp;&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-%23E4405F?logo=instagram&style=social)](https://www.instagram.com/tech.decoded.de?igsh=ZWp0NXYzY3Fld3o3&utm_source=qr)&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=social)](https://www.linkedin.com/in/tayebeh-bahador-23356a185/)&nbsp;&nbsp;
-[![Medium](https://img.shields.io/badge/Medium-Follow-black?logo=medium&style=social)](https://medium.com/@innovate_tiba)&nbsp;&nbsp;
+[![YouTube](https://img.shields.io/badge/YouTube-%20-red?logo=youtube&style=social)](https://youtube.com/@tech_d3coded?feature=shared)&nbsp;&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-%20-%23E4405F?logo=instagram&style=social)](https://www.instagram.com/tech.decoded.de?igsh=ZWp0NXYzY3Fld3o3&utm_source=qr)&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%20-blue?logo=linkedin&style=social)](https://www.linkedin.com/in/tayebeh-bahador-23356a185/)&nbsp;&nbsp;
+[![Medium](https://img.shields.io/badge/Medium-%20-black?logo=medium&style=social)](https://medium.com/@innovate_tiba)
 
 I am a software engineer with a specialization in deep learning and data science, experienced in building neural networks for both medical (MRI imaging) and non-medical applications and developing advanced image processing solutions for industrial camera systems.
 
