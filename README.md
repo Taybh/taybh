@@ -48,7 +48,7 @@ I am a speaker and content creator at Innovate Hamburg as well.
 I'm German 🇩🇪 and originally from Iran 🇮🇷. 
 I love doing sports. I have tried different sports during my life. Right now I love to do weight lifting 🏋 and tennis 🎾. 
 I love reading self-development books 📖.
-I listening to podcasts about tech and self-development 🎧. Moreover, I attend a 2-year-long Transactional Analysis (TA) course which I believe it is necessary for every individual to enhance the soft skills for the career and personal life. 
+I listen to podcasts about tech and self-development 🎧. Moreover, I attend a 2-year-long Transactional Analysis (TA) course which I believe it is necessary for every individual to enhance the soft skills for the career and personal life. 
 Furthermore, I played violin 🎻 actively as a teenager and currently I am rekindling the passion and rebuilding techniques
 
 
