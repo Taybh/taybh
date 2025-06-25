@@ -10,7 +10,24 @@ I bring hands-on experiece in cloud platforms, including Amazon Web Services (AW
 
 I have experiece in programming languages and tools such as C++, Python, MATLAB, Qt and QML, enabling me to design and implement high-performance solutions across diverse domains.
 
-#Beyond Tech
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" />
+
+## Skills
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
+
+## Tools and Technologies
+
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=flat)
+
+## Beyond Tech
 
 I'm German and originally from Iran. 
 I love doing sports. I have tried different sports during my life. Right now I love to do weight lifting and tennis. 
