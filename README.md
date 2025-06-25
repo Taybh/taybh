@@ -16,9 +16,10 @@ I have experiece in programming languages and tools such as C++, Python, MATLAB,
 ## Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
+![QML](https://img.shields.io/badge/QML-41CD52?logo=qt&logoColor=white&style=flat)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white&style=flat)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat)
 
 ## Tools and Technologies
 
