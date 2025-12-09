@@ -4,14 +4,18 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%20-blue?logo=linkedin&style=social)](https://www.linkedin.com/in/tayebeh-bahador-23356a185/)&nbsp;&nbsp;
 [![Medium](https://img.shields.io/badge/Medium-%20-black?logo=medium&style=social)](https://medium.com/@innovate_tiba)
 
-I am a software engineer with a specialization in deep learning and data science, experienced in building neural networks for both medical (MRI imaging) and non-medical applications and developing advanced image processing solutions for industrial camera systems.
+I am a machine learning engineer and researcher with a background in deep learning, medical AI, and computer vision, holding an M.Sc. in Medical Systems Engineering from Otto von Guericke University Magdeburg (Germany).
+My work spans:
+	•	Deep learning, self-supervised learning, transfer learning, and building neural networks for medical imaging (MRI) and non-medical applications
+	•	Vision-based systems for industrial and developing advanced image processing solutions for industrial camera systems.
+	•	Machine learning pipelines including data preprocessing, model development, and deployment
+	•	Cloud platforms, including Amazon Web Services (AWS) and Microsoft Azure, AWS machine learning tools such as SageMaker and Panorama, containerization technologies (Docker), DevOps practices, and web development.
 
-I bring hands-on experiece in cloud platforms, including Amazon Web Services (AWS) and Microsoft Azure, AWS machine learning tools such as SageMaker and Panorama, containerization technologies (Docker), DevOps practices, and web development.
+I have experience in building neural networks, applying transfer learning, developing image segmentation and detection models, and designing high-performance computer vision systems.
 
-I have experiece in programming languages and tools such as C++, Python, MATLAB, Qt and QML, enabling me to design and implement high-performance solutions across diverse domains.
+Alongside engineering work, I am passionate about AI research, interdisciplinary innovation, and creating technology with real-world impact. I also create multilingual tech content (English/German/Farsi) on different platforms, YouTube [![YouTube](https://img.shields.io/badge/YouTube-%20-red?logo=youtube&style=social)](https://youtube.com/@tech_d3coded?feature=shared), Instagram [![Instagram](https://img.shields.io/badge/Instagram-%20-%23E4405F?logo=instagram&style=social)](https://www.instagram.com/tech.decoded.de?igsh=ZWp0NXYzY3Fld3o3&utm_source=qr) and Medium [![Medium](https://img.shields.io/badge/Medium-%20-black?logo=medium&style=social)](https://medium.com/@innovate_tiba). I am a speaker and content creator at Innovate Hamburg as well. 
 
-I create tech content on different platforms, YouTube [![YouTube](https://img.shields.io/badge/YouTube-%20-red?logo=youtube&style=social)](https://youtube.com/@tech_d3coded?feature=shared), Instagram [![Instagram](https://img.shields.io/badge/Instagram-%20-%23E4405F?logo=instagram&style=social)](https://www.instagram.com/tech.decoded.de?igsh=ZWp0NXYzY3Fld3o3&utm_source=qr) and Medium [![Medium](https://img.shields.io/badge/Medium-%20-black?logo=medium&style=social)](https://medium.com/@innovate_tiba).
-I am a speaker and content creator at Innovate Hamburg as well. 
+I have experience in programming languages and tools such as C++, Python, MATLAB, Qt, and QML, enabling me to design and implement high-performance solutions across diverse domains.
 
 ## Skills
 
