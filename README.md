@@ -1,4 +1,4 @@
-## Hi there 👋, My name is Taybh! 
+## Hi there 👋, My name is Taybah! 
 [![YouTube](https://img.shields.io/badge/YouTube-%20-red?logo=youtube&style=social)](https://youtube.com/@tech_d3coded?feature=shared)&nbsp;&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-%20-%23E4405F?logo=instagram&style=social)](https://www.instagram.com/tech.decoded.de?igsh=ZWp0NXYzY3Fld3o3&utm_source=qr)&nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%20-blue?logo=linkedin&style=social)](https://www.linkedin.com/in/tayebeh-bahador-23356a185/)&nbsp;&nbsp;
