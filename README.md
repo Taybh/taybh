@@ -7,13 +7,10 @@
 I am a machine learning engineer and researcher with a background in deep learning, medical AI, and computer vision, holding an M.Sc. in Medical Systems Engineering from Otto von Guericke University Magdeburg (Germany).
 My work spans:
 
-	•	Deep learning, self-supervised learning, transfer learning, and building neural networks for medical imaging (MRI) and non-medical applications
-	
-	•	Vision-based systems for industrial and developing advanced image processing solutions for industrial camera systems.
-	
-	•	Machine learning pipelines including data preprocessing, model development, and deployment
-	
-	•	Cloud platforms, including Amazon Web Services (AWS) and Microsoft Azure, AWS machine learning tools such as SageMaker and Panorama, containerization technologies (Docker), DevOps practices, and web development.
+- Deep learning, self-supervised learning, transfer learning, and building neural networks for medical imaging (MRI) and non-medical applications
+- Vision-based systems for industrial and developing advanced image processing solutions for industrial camera systems.
+- Machine learning pipelines including data preprocessing, model development, and deployment.
+- Cloud platforms, including Amazon Web Services (AWS) and Microsoft Azure, AWS machine learning tools such as SageMaker and Panorama, containerization technologies (Docker), DevOps practices, and web development.
 
 I have experience in building neural networks, applying transfer learning, developing image segmentation and detection models, and designing high-performance computer vision systems.
 
